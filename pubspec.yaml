@@ -1,0 +1,29 @@
+name: papelesourappmobile
+description: Um app Flutter de Pedra, Papel e Tesoura
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/pedra.png
+    - assets/papel.png
+    - assets/tesoura.png
+    - assets/padrao.png
