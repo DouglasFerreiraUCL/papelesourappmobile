@@ -1,16 +1,13 @@
-# papelesourappmobile
+# APP Pedra, Papel e Tesoura
 
-A new Flutter project.
+## Descrição do Aplicativo
+Nome Aplicativo: Pedra, Papel e Tesoura  
+Descrição: Aplicativo desenvolvido em Flutter que simula o clássico jogo "Pedra, Papel e Tesoura", permitindo que o usuário jogue contra a máquina com acompanhamento de placar em tempo real.  
+Componentes do Grupo: 12117011 - Douglas Ferreira Marques e 223100004 - Pedro Henrique Damasceno Mello 
 
-## Getting Started
+## Funcionalidades Principais
+✅ Permite ao usuário escolher entre pedra, papel ou tesoura.  
+✅ Sorteia aleatoriamente a jogada da máquina.  
+✅ Exibe quem venceu a rodada com atualização automática do placar.    
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/58475216-3eed-4a74-a1e5-d795c0d5efc3)
